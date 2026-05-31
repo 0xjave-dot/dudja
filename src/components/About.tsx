@@ -211,8 +211,7 @@ export default function About() {
 
               <div>
                 {/* Sonic Gear Catalog removed as requested */}
-                  Interactive directory highlighting the tactile stimuli and modular equipment feeding Dudja\'s current studio cycle:
-                </p>
+                {/* Interactive directory highlighting the tactile stimuli and modular equipment feeding Dudja's current studio cycle: */}
 
                 <div className="space-y-3">
                   {aestheticInfluences.map((inf) => (
